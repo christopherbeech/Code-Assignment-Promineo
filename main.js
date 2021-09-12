@@ -254,13 +254,13 @@ console.log(findValue(50, ages, ages)); */
 // Question 13
 
 //This function cheeks someones age. If legal, you can continue with registration. If not, you aren't allowed to join.
-function howOldAreYou(yourAge){
+// function howOldAreYou(yourAge){
 
-    if(yourAge < 21){
-       return 'Your not old enough to join club.';
-    } 
-    return   "Fill out member's form below";
+//     if(yourAge < 21){
+//        return 'Your not old enough to join club.';
+//     } 
+//     return   "Fill out member's form below";
 
-}
+// }
 
-console.log(howOldAreYou(30));
+// console.log(howOldAreYou(30));
